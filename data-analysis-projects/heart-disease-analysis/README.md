@@ -78,19 +78,19 @@ Not including kidney stones, bladder infection or incontinence, were you ever to
 * Platform: Jupyter Notebook.
 
 ## Setup
-To run this project setup the following libraries on your local machine using pip on the terminal after installing Python:
-'''
-pip install numpy
-pip install matplotlib
-pip install pandas
-pip install seaborn
-'''
-To install these packages with conda run:
-'''
-conda install -c anaconda numpy
-conda install -c conda-forge matplotlib
-conda install -c anaconda pandas
-conda install -c anaconda seaborn
+To run this project setup the following libraries on your local machine using pip on the terminal after installing Python:\
+'''\
+pip install numpy\
+pip install matplotlib\
+pip install pandas\
+pip install seaborn\
+'''\
+To install these packages with conda run:\
+'''\
+conda install -c anaconda numpy\
+conda install -c conda-forge matplotlib\
+conda install -c anaconda pandas\
+conda install -c anaconda seaborn\
 '''
 
 ## Features
