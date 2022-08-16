@@ -1,6 +1,6 @@
-# Heart Disease Analystic
-Analyse given data for Heart Disease and get some insights of it using Python EDA.
-
+# Heart Disease Analysis
+Heart Disease is considered one of the most common diseases, in addition to the great diversity of its causes and indications (symptoms) of its occurrence, single or combined symptoms, and this makes prediction of its occurrence or its possibility of occurrence very difficult and important in a good analysis of symptoms in order to identify and prevent them.
+Hence, the idea of analyzing Heart Disease Dataset and get some insights of it using Python EDA.
 ## Table of Contents
 * [Introduction](#introduction)
 * [Dataset General info](#dataset-general-info)
