@@ -75,7 +75,7 @@ Not including kidney stones, bladder infection or incontinence, were you ever to
 ## Technologies
 * Programming language: Python.
 * libraries: Numpy, Matplotlib, Pandas, Seaborn.
-* Platform: Jupyter Notebook.
+* Application: Jupyter Notebook.
 
 ## Setup
 To run this project setup the following libraries on your local machine using pip on the terminal after installing Python:\
