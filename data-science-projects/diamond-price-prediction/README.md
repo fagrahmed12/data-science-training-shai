@@ -51,23 +51,23 @@ This is a classic dataset contains the prices and other attributes of almost 54,
 ## Setup
 To run this project setup the following libraries on your local machine using pip on the terminal after installing Python:
 '''
-pip install numpy
-pip install matplotlib
-pip install pandas
-pip install seaborn
-pip install tableau
-pip install scikit-learn
-pip install xgboost
+* pip install numpy
+* pip install matplotlib
+* pip install pandas
+* pip install seaborn
+* pip install tableau
+* pip install scikit-learn
+* pip install xgboost
 '''
 To install these packages with conda run:
 '''
-conda install -c anaconda numpy
-conda install -c conda-forge matplotlib
-conda install -c anaconda pandas
-conda install -c anaconda seaborn
-conda install -c conda-forge tableauserverclient
-conda install -c anaconda scikit-learn
-conda install -c anaconda py-xgboost
+* conda install -c anaconda numpy
+* conda install -c conda-forge matplotlib
+* conda install -c anaconda pandas
+* conda install -c anaconda seaborn
+* conda install -c conda-forge tableauserverclient
+* conda install -c anaconda scikit-learn
+* conda install -c anaconda py-xgboost
 '''
 
 ## Features
@@ -110,5 +110,5 @@ To run and show analysis, insights, correlation, and results between any set of 
 4. Run Selection/Line in Python Terminal command (Shift+Enter)
 
 ## Sources
-This data was taken from SHAI competition (Diamond Price Prediction competition
+This data was taken from SHAI competition (Diamond Price Prediction competition)\
 (https://www.kaggle.com/t/0aa9c9c6994548aba1f257a94e1c59cc)
