@@ -58,8 +58,8 @@ To run this project setup the following libraries on your local machine using pi
 * pip install tableau
 * pip install scikit-learn
 * pip install xgboost
-'''
-To install these packages with conda run:
+'''\
+To install these packages with conda run:\
 '''
 * conda install -c anaconda numpy
 * conda install -c conda-forge matplotlib
