@@ -50,7 +50,9 @@ This is a classic dataset contains the prices and other attributes of almost 54,
 
 ## Setup
 To run this project setup the following libraries on your local machine using pip on the terminal after installing Python:
+
 '''
+
 * pip install numpy
 * pip install matplotlib
 * pip install pandas
@@ -58,9 +60,12 @@ To run this project setup the following libraries on your local machine using pi
 * pip install tableau
 * pip install scikit-learn
 * pip install xgboost
-'''\
-To install these packages with conda run:\
 '''
+
+To install these packages with conda run:
+
+'''
+
 * conda install -c anaconda numpy
 * conda install -c conda-forge matplotlib
 * conda install -c anaconda pandas
